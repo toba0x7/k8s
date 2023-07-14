@@ -34,7 +34,7 @@ For Installation - https://docs.aws.amazon.com/eks/latest/userguide/install-kube
 **Configure working directory**\
 Create work directory and add terraform files
 
-**Deploy Kubernetes Cluster with Terraform**
+**Deploy Kubernetes Cluster with Terraform**\
 Initialize the backend, modules, and provider plugins defined in code. Because we didn’t explicitly define a backend, Terraform will use the local backend.
 ```
 terraform init
