@@ -18,7 +18,16 @@ Edit .tf files to create Kubernetes cluster infrastructure\
 Deploy the Kubernetes cluster\
 Clean up
 
+Set Up AWS Credentials
 ```
 export AWS_ACCESS_KEY_ID="<access_key>"
 export AWS_SECRET_ACCESS_KEY="<secret_key>"
+export AWS_DEFAULT_REGION=<region>
 ```
+
+Install Kubectl
+```
+kubectl version --short--client
+```
+For Installation - https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html
+
