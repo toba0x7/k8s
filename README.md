@@ -17,3 +17,8 @@ Configure working directory\
 Edit .tf files to create Kubernetes cluster infrastructure\
 Deploy the Kubernetes cluster\
 Clean up
+
+```
+export AWS_ACCESS_KEY_ID="<access_key>"
+export AWS_SECRET_ACCESS_KEY="<secret_key>"
+```
