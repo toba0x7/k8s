@@ -2,20 +2,20 @@
 
 **Prerequisites:**\
 AWS account\
-Cloud9, VSCode or similar IDE\
-Kubernetes CLI installed\
-Kubectl installed\
 AWS CLI installed\
+Cloud9, VSCode or similar IDE\
+Kubectl installed\
+Kubernetes CLI installed\
+Basic Kubernetes knowledge\
 Terraform installed\
-Basic Terraform knowledge\
-Basic Kubernetes knowledge
-
+Basic Terraform knowledge
 
 **Objectives:**\
 Set up AWS credentials\
 Install kubectl (if not already done)\
 Configure working directory & add terraform files to create Kubernetes cluster infrastructure\
-Deploy the Kubernetes cluster\
+Deploy the Kubernetes cluster with terraform\
+Configure kubectl & confirm deploymet\
 Clean up
 
 **Set Up AWS Credentials**
