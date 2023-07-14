@@ -5,7 +5,7 @@ AWS account\
 Kubernetes CLI installed\
 Kubectl installed\
 AWS CLI installed\
-Terraform installed
+Terraform installed\
 Basic Terraform knowledge and experience\
 Basic Kubernetes knowledge and experience\
 Cloud9, VSCode or similar IDE
