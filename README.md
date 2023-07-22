@@ -47,6 +47,8 @@ aws eks update-kubeconfig --region <region> --name <EKS_cluster_name>
 kubectl cluster-info
 kubectl get nodes
 ```
+<img width="960" alt="Screenshot 2023-07-03 104748" src="https://github.com/toba-0x7/repo-rainfall/assets/89642129/242b528b-9bc0-4360-9586-3c6d1eeb3bbf">
+
 ## Clean Up
 ```
 terraform destroy
