@@ -7,4 +7,4 @@
 2. mkdir eks-terraform
 3. cd eks-terraform
 4. Create Terraform Files ```main.tf``` and ```variables.tf```
-5. 
+5.       
